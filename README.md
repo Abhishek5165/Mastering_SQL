@@ -1,2 +1,2 @@
-# Mastering---SQL
+# Mastering - SQL
 SQL Queries 🥷
