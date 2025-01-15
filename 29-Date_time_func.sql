@@ -1,0 +1,9 @@
+CURDATE() , CURTIME() , NOW()
+
+SELECT CURDATE();
+SELECT CURTIME();
+SELECT NOW();
+
+INSERT INTO date_time_format VALUE (CURDATE(),CURTIME(),NOW());
+
+SELECT * FROM date_time_format;
